@@ -1,0 +1,7 @@
+node_modules/
+# IntellijIdea files
+.idea/
+.DS_Store
+.vscode/
+ packege-lock.json
+ 
